@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WBC907 Plugin Example
-Plugin URI: https://wordpress.org/plugins/health-check/
+Plugin URI: https://github.com/Webcreations907/WBC907-Plugin-Example/
 Description: Example plugin for Reduxframework extensions loading
 Version: 1.0
 Author: Webcreations907
